@@ -1,0 +1,13 @@
+-> Class
+-> Object Creation
+-> Access Modifers
+-> Getter/setter
+-> Condition in setter
+-> Greedy Aligment
+-> Padding
+-> constructor (Default and Parameterised)
+-> this keyword
+-> copy constructor
+-> Shallow and Deep Copy
+-> Copy Assigment Operator
+-> Destructor - Memory Deallocate
